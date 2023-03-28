@@ -1,0 +1,277 @@
+
+diogo@Diogo-Note MINGW64 ~
+$ dir
+3D\ Objects
+Ambiente\ de\ Impressão
+Ambiente\ de\ Rede
+AppData
+Configurações\ Locais
+Contacts
+Cookies
+Dados\ de\ Aplicativos
+Desktop
+Documents
+Downloads
+Favorites
+Intel
+IntelGraphicsProfiles
+Links
+Menu\ Iniciar
+Meus\ Documentos
+Modelos
+Music
+NTUSER.DAT
+NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TM.blf
+NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TMContainer00000000000000000001.regtrans-ms
+NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TMContainer00000000000000000002.regtrans-ms
+OneDrive
+OneDrive\ -\ SenacRS
+Pictures
+Recent
+Saved\ Games
+Searches
+SendTo
+Videos
+ntuser.dat.LOG1
+ntuser.dat.LOG2
+ntuser.ini
+
+diogo@Diogo-Note MINGW64 ~
+$ cd desktop
+
+diogo@Diogo-Note MINGW64 ~/desktop
+$ git init
+Initialized empty Git repository in C:/Users/diogo/Desktop/.git/
+
+diogo@Diogo-Note MINGW64 ~/desktop (master)
+$ dir
+16\ personalities.pdf                                                      Visual\ Studio\ Code.lnk
+ALUGUEIS\ -\ Atalho.lnk                                                    Word.lnk
+Assistente\ Certificado\ Digital\ AC\ DOCCLOUD.appref-ms                   area\ a\ negociar.kmz
+Diogo\ Arns\ Passos\ (@diogoarns)\ •\ Fotos\ e\ vídeos\ do\ Instagram.pdf  aulagit
+Discord.lnk                                                                bruna.docx
+Excel.lnk                                                                  certificado\ Ines\ delano.pfx
+GitHub\ Desktop.lnk                                                        compras\ 2022.xlsx
+LDMultiPlayer.lnk                                                          compras\ 2023.xlsx
+LDPlayer9.lnk                                                              desktop.ini
+MySQL\ Workbench\ 8.0\ CE.lnk                                              disc\ diogo.pdf
+Nmap\ -\ Zenmap\ GUI.lnk                                                   escala\ de\ emoçoes.jpg
+Nova\ Pasta                                                                gitgit
+Perfil\ -\ Teledipity.pdf                                                  pendencias.xlsx
+Personalidade\ “Virtuoso”\ (ISTP)\ _\ 16Personalities.pdf                  qualquernome
+Resultado\ de\ consulta\ _\ Olho\ no\ Carro\ Mobi.pdf                      temp_image_20210520_194446_e7ffeca5-e638-4355-9ab3-d1b1e2c619fd.jpg
+Terminal\ Programador\ Intelbras.lnk                                       ~$pendencias.xlsx
+Vet\ saldo.txt
+
+diogo@Diogo-Note MINGW64 ~/desktop (master)
+$ cd git
+bash: cd: git: No such file or directory
+
+diogo@Diogo-Note MINGW64 ~/desktop (master)
+$ cd git
+GitHub Desktop.lnk  gitgit/
+
+diogo@Diogo-Note MINGW64 ~/desktop (master)
+$ cd git
+GitHub Desktop.lnk  gitgit/
+
+diogo@Diogo-Note MINGW64 ~/desktop (master)
+$ cd gitgit
+
+diogo@Diogo-Note MINGW64 ~/desktop/gitgit (master)
+$ dir
+
+diogo@Diogo-Note MINGW64 ~/desktop/gitgit (master)
+$ git init
+Reinitialized existing Git repository in C:/Users/diogo/Desktop/gitgit/.git/
+
+diogo@Diogo-Note MINGW64 ~/desktop/gitgit (master)
+$ cd ..
+
+diogo@Diogo-Note MINGW64 ~/desktop (master)
+$ cd a
+ALUGUEIS - Atalho.lnk                                 area a negociar.kmz
+Assistente Certificado Digital AC DOCCLOUD.appref-ms  aulagit/
+
+diogo@Diogo-Note MINGW64 ~/desktop (master)
+$ cd a
+ALUGUEIS - Atalho.lnk                                 area a negociar.kmz
+Assistente Certificado Digital AC DOCCLOUD.appref-ms  aulagit/
+
+diogo@Diogo-Note MINGW64 ~/desktop (master)
+$ cd aulagit
+
+diogo@Diogo-Note MINGW64 ~/desktop/aulagit (master)
+$ dir
+
+diogo@Diogo-Note MINGW64 ~/desktop/aulagit (master)
+$ git init
+Initialized empty Git repository in C:/Users/diogo/Desktop/aulagit/.git/
+
+diogo@Diogo-Note MINGW64 ~/desktop/aulagit (master)
+$ touch .gitignore
+
+diogo@Diogo-Note MINGW64 ~/desktop/aulagit (master)
+$ git add .gitignore xpto
+fatal: pathspec 'xpto' did not match any files
+
+diogo@Diogo-Note MINGW64 ~/desktop/aulagit (master)
+$ git add .gitignore xpto.txt
+
+diogo@Diogo-Note MINGW64 ~/desktop/aulagit (master)
+$ git commit -m TESTE
+[master (root-commit) 0ef8d8b] TESTE
+ 2 files changed, 1 insertion(+)
+ create mode 100644 .gitignore
+ create mode 100644 xpto.txt
+
+diogo@Diogo-Note MINGW64 ~/desktop/aulagit (master)
+$ git remote add origin https://github.com/diarns/gitgit.git
+
+diogo@Diogo-Note MINGW64 ~/desktop/aulagit (master)
+Enumerating objects: 4, done.
+Counting objects: 100% (4/4), done.
+Delta compression using up to 4 threads
+Compressing objects: 100% (2/2), done.
+Writing objects: 100% (4/4), 281 bytes | 140.00 KiB/s, done.
+Total 4 (delta 0), reused 0 (delta 0), pack-reused 0
+To https://github.com/diarns/gitgit.git
+ * [new branch]      master -> master
+branch 'master' set up to track 'origin/master'.
+
+diogo@Diogo-Note MINGW64 ~/desktop/aulagit (master)
+$ git push -u origin master
+Everything up-to-date
+branch 'master' set up to track 'origin/master'.
+
+diogo@Diogo-Note MINGW64 ~/desktop/aulagit (master)
+$
+
+diogo@Diogo-Note MINGW64 ~/desktop/aulagit (master)
+$
+
+diogo@Diogo-Note MINGW64 ~/desktop/aulagit (master)
+$
+
+diogo@Diogo-Note MINGW64 ~/desktop/aulagit (master)
+$
+
+diogo@Diogo-Note MINGW64 ~/desktop/aulagit (master)
+$
+
+diogo@Diogo-Note MINGW64 ~/desktop/aulagit (master)
+$
+
+diogo@Diogo-Note MINGW64 ~/desktop/aulagit (master)
+$ touch .gitignore [3~help
+
+diogo@Diogo-Note MINGW64 ~/desktop/aulagit (master)
+$
+
+diogo@Diogo-Note MINGW64 ~/desktop/aulagit (master)
+$
+
+diogo@Diogo-Note MINGW64 ~/desktop/aulagit (master)
+$ git push -u origin master
+Everything up-to-date
+branch 'master' set up to track 'origin/master'.
+
+diogo@Diogo-Note MINGW64 ~/desktop/aulagit (master)
+$ ^[[200~git checkout -b dev
+bash: $'\E[200~git': command not found
+
+diogo@Diogo-Note MINGW64 ~/desktop/aulagit (master)
+$  git checkout -b dev
+Switched to a new branch 'dev'
+
+diogo@Diogo-Note MINGW64 ~/desktop/aulagit (dev)
+$ git add XPTO.txt
+
+diogo@Diogo-Note MINGW64 ~/desktop/aulagit (dev)
+$ git push -u origin dev
+Total 0 (delta 0), reused 0 (delta 0), pack-reused 0
+
+remote:
+remote: Create a pull request for 'dev' on GitHub by visiting:
+remote:      https://github.com/diarns/gitgit/pull/new/dev
+remote:
+To https://github.com/diarns/gitgit.git
+ * [new branch]      dev -> dev
+branch 'dev' set up to track 'origin/dev'.
+
+diogo@Diogo-Note MINGW64 ~/desktop/aulagit (dev)
+$
+
+diogo@Diogo-Note MINGW64 ~/desktop/aulagit (dev)
+$ git checkout master
+Switched to branch 'master'
+Your branch is up to date with 'origin/master'.
+
+diogo@Diogo-Note MINGW64 ~/desktop/aulagit (master)
+$ git checkout master
+
+Already on 'master'
+Your branch is up to date with 'origin/master'.
+
+diogo@Diogo-Note MINGW64 ~/desktop/aulagit (master)
+$
+
+diogo@Diogo-Note MINGW64 ~/desktop/aulagit (master)
+$ git checkout master.txt
+error: pathspec 'master.txt' did not match any file(s) known to git
+
+diogo@Diogo-Note MINGW64 ~/desktop/aulagit (master)
+$ git checkout master
+Already on 'master'
+Your branch is up to date with 'origin/master'.
+
+diogo@Diogo-Note MINGW64 ~/desktop/aulagit (master)
+$ git add xpto.txt
+
+diogo@Diogo-Note MINGW64 ~/desktop/aulagit (master)
+$ git add -i
+
+*** Commands ***
+  1: status       2: update       3: revert       4: add untracked
+  5: patch        6: diff         7: quit         8: help
+What now> 1
+
+*** Commands ***
+  1: status       2: update       3: revert       4: add untracked
+  5: patch        6: diff         7: quit         8: help
+What now> 2
+
+*** Commands ***
+  1: status       2: update       3: revert       4: add untracked
+  5: patch        6: diff         7: quit         8: help
+What now> 3
+
+*** Commands ***
+  1: status       2: update       3: revert       4: add untracked
+  5: patch        6: diff         7: quit         8: help
+What now> 7
+Bye.
+
+diogo@Diogo-Note MINGW64 ~/desktop/aulagit (master)
+$ git checkout dev
+Switched to branch 'dev'
+Your branch is up to date with 'origin/dev'.
+
+diogo@Diogo-Note MINGW64 ~/desktop/aulagit (dev)
+$ git merge
+Already up to date.
+
+diogo@Diogo-Note MINGW64 ~/desktop/aulagit (dev)
+$ git log
+commit 0ef8d8b0e33a52be7019f3cf15da2e9926a8f13f (HEAD -> dev, origin/master, origin/dev, master)
+Author: diarns <diogoarns@gmail.com>
+Date:   Tue Mar 28 19:51:49 2023 -0300
+
+    TESTE
+
+diogo@Diogo-Note MINGW64 ~/desktop/aulagit (dev)
+$ git pull
+Already up to date.
+
+diogo@Diogo-Note MINGW64 ~/desktop/aulagit (dev)
+$
